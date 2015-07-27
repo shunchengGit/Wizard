@@ -1,0 +1,7 @@
+BasedOnStyle: Chromium
+ColumnLimit: 120
+IndentWidth: 4
+PointerAlignment: Right
+ObjCBlockIndentWidth: 4
+ObjCSpaceAfterProperty: true
+ObjCSpaceBeforeProtocolList: true

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>backgroundImageName</key>
+		<string>guide1-bg.jpg</string>
+		<key>backgroundImageRectForScreen4</key>
+		<string>0 0 640 1136</string>
+		<key>backgroundImageRectForScreenOther</key>
+		<string>0 115 640 1136</string>
+		<key>viewType</key>
+		<integer>1</integer>
+		<key>animationInfo</key>
+		<dict>
+			<key>sequenceItem</key>
+			<array>
+				<dict>
+					<key>animationDuration</key>
+					<integer>1</integer>
+					<key>fromValue</key>
+					<integer>0</integer>
+					<key>toValue</key>
+					<integer>1</integer>
+					<key>sequenceAppearAnimationType</key>
+					<integer>1</integer>
+					<key>animationBeginTime</key>
+					<integer>0</integer>
+					<key>imgName</key>
+					<string>guide1-core.png</string>
+					<key>imgRectInBigPictureForScreen4</key>
+					<string>0 0 480 800</string>
+					<key>imgLocationInScreen4</key>
+					<string>40 84 240 400</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<dict>
+		<key>backgroundImageName</key>
+		<string>guide2-bg.jpg</string>
+		<key>backgroundImageRectForScreen4</key>
+		<string>0 0 640 1136</string>
+		<key>backgroundImageRectForScreenOther</key>
+		<string>0 115 640 1136</string>
+		<key>viewType</key>
+		<integer>1</integer>
+		<key>animationInfo</key>
+		<dict>
+			<key>sequenceItem</key>
+			<array>
+				<dict>
+					<key>animationDuration</key>
+					<integer>1</integer>
+					<key>fromValue</key>
+					<integer>0</integer>
+					<key>toValue</key>
+					<integer>1</integer>
+					<key>sequenceAppearAnimationType</key>
+					<integer>1</integer>
+					<key>animationBeginTime</key>
+					<integer>0</integer>
+					<key>imgName</key>
+					<string>guide2-core.png</string>
+					<key>imgRectInBigPictureForScreen4</key>
+					<string>0 0 498 820</string>
+					<key>imgLocationInScreen4</key>
+					<string>35.5 79 249 410</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<dict>
+		<key>buttonFrame</key>
+		<string>85 463 150 45</string>
+		<key>startUpBtnHighlightImageName</key>
+		<string>startupBtn_pressed.png</string>
+		<key>startUpBtnNormalImageName</key>
+		<string>startupBtn_normal.png</string>
+		<key>backgroundImageName</key>
+		<string>guide3-bg.jpg</string>
+		<key>backgroundImageRectForScreen4</key>
+		<string>0 0 640 1136</string>
+		<key>backgroundImageRectForScreenOther</key>
+		<string>0 115 640 1136</string>
+		<key>viewType</key>
+		<integer>1</integer>
+		<key>animationInfo</key>
+		<dict>
+			<key>sequenceItem</key>
+			<array>
+				<dict>
+					<key>animationDuration</key>
+					<integer>1</integer>
+					<key>fromValue</key>
+					<integer>0</integer>
+					<key>toValue</key>
+					<integer>1</integer>
+					<key>sequenceAppearAnimationType</key>
+					<integer>1</integer>
+					<key>animationBeginTime</key>
+					<integer>0</integer>
+					<key>imgName</key>
+					<string>guide3-core.png</string>
+					<key>imgRectInBigPictureForScreen4</key>
+					<string>0 0 480 800</string>
+					<key>imgLocationInScreen4</key>
+					<string>40 84 240 400</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</array>
+</plist>
